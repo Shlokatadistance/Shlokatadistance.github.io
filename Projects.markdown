@@ -36,7 +36,7 @@ As a challenge in JP Morgan Chase Code for Good 2020, we (team) came up with a s
 
 <b>Technology used - HTML, CSS, JavaScript
 
-<b>4.Employee-Management System</b>
+<b>5.Employee-Management System</b>
 
 A basic and functional employee directory and adminstration program, which helps one to view and edit employee details.
 
