@@ -20,7 +20,7 @@ permalink: /Work Experience/
 # January 2020 - Present  
 <img src = "/assets/images/ey.png" width = "248px" height = "73px" border = "3px solid #73AD21">
 
-## 5. Application Support Intern - Quagnitia Systems Private Limited, India.  
+## 5. Support Engineer (Part Time)- Quagnitia Systems Private Limited, India.  
 # July 2019 - August 2020  
 <img src = "/assets/images/quag.jpg" width = "248px" height = "73px" border = "3px solid #73AD21">
 

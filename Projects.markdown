@@ -15,7 +15,6 @@ I utilised the Caffe framework and came up with the document scanner, which lear
 <b>Technology used - Python, Caffe</b>
 
 
-
 <b>2.Tech ++</b>
 
 Like many student based sites, Tech++ is aimed at connecting students from across the world. Students can use the site either to share valuable material and resources, or share their experiences for the benifit of their peers and others seeking the same opportunities.
@@ -30,6 +29,12 @@ As a challenge in JP Morgan Chase Code for Good 2020, we (team) came up with a s
 - We also built an online database management system, functioning as an admin console such that the social organisation overall can have control monitoring over their applicants' status.
 
 <b>Technology used - React, React-Native, Springboot, MaterialUI</b>
+
+<b>4. The Algorithm Directory </b>
+- The website aims at providing concise and compact knowledge on various algorithms for those who seek to learn them.
+- Along with the algorithm, it also provides follow up points and links to the user.
+
+<b>Technology used - HTML, CSS, JavaScript
 
 <b>4.Employee-Management System</b>
 
