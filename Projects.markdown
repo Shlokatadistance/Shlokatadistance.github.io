@@ -33,6 +33,7 @@ As a challenge in JP Morgan Chase Code for Good 2020, we (team) came up with a s
 <b>4. The Algorithm Directory </b>
 - The website aims at providing concise and compact knowledge on various algorithms for those who seek to learn them.
 - Along with the algorithm, it also provides follow up points and links to the user.
+- Not only algorithms, but system tricks and solutions are also being made avaliable.
 
 <b>Technology used - HTML, CSS, JavaScript
 
