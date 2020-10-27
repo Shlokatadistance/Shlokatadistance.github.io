@@ -43,5 +43,5 @@ permalink: /Work Experience/
  - Docboyz fulfills the need of digitilisation for smaller state based banks, who otherwise may not sufficient assets to carry out the process by themselves. As a NBFC, Docboyz provides services to these banks through its mobile application, which is used to procure customer information and documents and seamlessly uploaded on the banks' customer database.
  - As a summer intern, I worked on one of the crucial features of applications, which is the document scanner and enhancer. The application would take the image, and the scanner would process this image, getting rid of the undesirable area, resulting in a clean image.
  - My implementation took the aid of Python, as well as the image processing libraries of Python, namely PIL, OpenCV, Pillow and other important libraries such as imutils, boto3.
- - The implementation achieved a 91% efficiency on the test images. 
+ - The implementation achieved a 91% efficiency on a set of 1500 images. 
 <img src = "/assets/images/db.png" width = "248px" height = "200px" border = "3px solid #73AD21">
