@@ -20,13 +20,15 @@ permalink: /Work Experience/
 ## 3. Software Engineering Intern - Kin Technologies, Hong Kong.  
 # June 2020 - September 2020  
  - I worked on building the frontend application of the Kin Medical Dispenser using React Native and MaterialUI.
- - The application works in sync with the Kin Medical Dispenser, allowing the user to monitor and interact with the device through their mobile. 
+ - The application works in sync with the Kin Medical Dispenser, allowing the user to monitor and interact with the device through their mobile.  
+
 <img src = "/assets/images/kin.jpeg" width = "248px" height = "200px" border = "3px solid #73AD21">
 
 ## 4. Student Cadet @ EY Academy - Ernst & Young, Hong Kong.  
 # January 2020 - Present  
  - One of the 80 students selected accross all major universities in Hong Kong in thhe 2020 cohort.
- - with EYAcademy, I have the opportunity to shadow and learn from EY professionals, thereby enancing my professional and interpersonal skills.
+ - with EYAcademy, I have the opportunity to shadow and learn from EY professionals, thereby enancing my professional and interpersonal skills.  
+ 
 <img src = "/assets/images/ey.png" width = "248px" height = "73px" border = "3px solid #73AD21">
 
 ## 5. Support Engineer (Part Time)- Quagnitia Systems Private Limited, India.  
