@@ -26,8 +26,8 @@ permalink: /Work Experience/
 
 ## 4. Student Cadet @ EY Academy - Ernst & Young, Hong Kong.  
 # January 2020 - Present  
- - One of the 80 students selected accross all major universities in Hong Kong in thhe 2020 cohort.
- - with EYAcademy, I have the opportunity to shadow and learn from EY professionals, thereby enancing my professional and interpersonal skills.  
+ - One of the 80 students selected accross all major universities in Hong Kong in the 2020 cohort.
+ - With EYAcademy, I have the opportunity to shadow and learn from EY professionals, thereby enancing my professional and interpersonal skills.  
 
 <img src = "/assets/images/ey.png" width = "248px" height = "73px" border = "3px solid #73AD21">
 
