@@ -20,21 +20,17 @@ I am currently a Junior, majoring in Computer Engineering, along with a minor in
 
 # My skill set includes - 
 1.	Core Languages – C++, C, Python, HTML,Haskell.
-2.	Programming Technologies & Frameworks – JavaScript, React, Node.JS, Bash, Git, Express.JS,CSS
-3.	Deep Learning – Caffe, Tensorflow (Basic)
+2.	Programming Technologies & Frameworks – React, Node.JS, Bash, Git, Express.JS,CSS, MERN ,
+	Caffe, Tensorflow, KERAS
 
 
 
-Machines have always fascinated me. This led me to my major at University, because a deep knowledge in this subject is a pre-requisite for any scope of further development. My focus lies predominantly in the domain of Software Engineering and Artificial Intelligence. 
+Machines have always fascinated me. This led me to my major at University, because a deep knowledge in this subject is a pre-requisite for any scope of further development. My focus lies predominantly in the domain of High Frequency Trading, Quantitative Research and Algorithmic Research.
 
 <b> I am on the look for roles which align with my interests! </b>
 
 # Academic and Future Aspirations
 
 My academic interests lie in the fields of -
-- Deep Learning
-- Generative Adverserial Networks
-- Acoustic Fingerprinting 
-- Artificial Intellegence
-
-As a professional, I first seek to enter and contribute towards the Software Development and Product Development/Design.
+- Artificial Intelligence
+- Financial & Economic Research
