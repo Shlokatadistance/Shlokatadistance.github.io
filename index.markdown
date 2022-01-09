@@ -8,7 +8,7 @@ list_title: ' '
 post-list-heading: ' '
 ---
 
-<img src = "me.jpeg" width = "200px" height = "400px"  left = "200px" border = "3px solid #73AD21">
+<img src = "me.jpeg" width = "200px" height = "400px"  left = "500px" border = "3px solid #73AD21">
 
 I am currently a Junior, majoring in Computer Engineering, along with a minor in Economics, from the University of Hong Kong (HKU). While there is a lot to share, i'll exercise my brevity and get you up to speed - 
 
