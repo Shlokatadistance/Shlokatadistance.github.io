@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Let's Connect!
+title: Social Media
 permalink: /Let's Connect/
+nav-menu : true
 ---
 
 Hello World!

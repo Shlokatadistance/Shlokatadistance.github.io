@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Projects and Explorations
 permalink: /Projects/
+nav-menu : true
 ---
 
 Coding is all about growing. I have tried my hands in almost all aspects of the subject and played with some interesting

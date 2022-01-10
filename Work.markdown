@@ -2,15 +2,20 @@
 layout: page
 title: Work Experience
 permalink: /Work Experience/
+nav-menu : true
 ---
+
+## 1. Software Developer Intern - Accelerate, SigmaQuant Technologies Limited, India.
+# June 2021 - October 2021
+
 ## 1. Solutions Engineer - Quagnitia Systems Private Limited, India.
-# September 2020 - Present
+# September 2020 - April 2021
 
 <img src = "/assets/images/quag.jpg" border = "3px solid #73AD21">
 
 ## 2. Online Coding and STEM Instructor - First Code Academy, Hong Kong.   
-# August 2020 - Present  
-<img src = "/assets/images/fca.png" width = "248px" height = "73px" border = "3px solid #73AD21">
+# August 2020 - April 2021 
+<img src = "/assets/images/fca.png" width = "248px" height = "73px" left = "100px" border = "3px solid #73AD21">
 
 ## 3. Software Engineering Intern - Kin Technologies, Hong Kong.  
 # June 2020 - September 2020  

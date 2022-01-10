@@ -30,8 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShlokSinha7
 github_username:  Shlokatadistance
 
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
 # Build settings
-theme: minima
+theme: fortyone-jekyll-theme 
 plugins:
   - jekyll-feed
 
