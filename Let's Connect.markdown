@@ -2,6 +2,7 @@
 layout: page
 title: Let's Connect!
 permalink: /Let's Connect/
+nav-menu : true
 ---
 
 Hello World!
