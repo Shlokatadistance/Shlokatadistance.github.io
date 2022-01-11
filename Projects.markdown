@@ -14,13 +14,9 @@ I utilised the Caffe framework and came up with the document scanner, which lear
 
 <b>Technology used - Python, Caffe</b>
 
+<b>2. LSTM Based Stock Price Prediction Model </b>
 
-
-<b>2.Tech ++</b>
-
-Like many student based sites, Tech++ is aimed at connecting students from across the world. Students can use the site either to share valuable material and resources, or share their experiences for the benifit of their peers and others seeking the same opportunities.
-
-<b>Technology used - MERN Stack</b>
+The project utilises LSTM (Long Short Term Memory) networks to work on historical data and predict future stock prices. The project achieved a 47.2% accuracy on the backtest.
 
 <b>3.New Hope Organisation Client Onboarding Platform</b>
 

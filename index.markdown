@@ -10,7 +10,7 @@ post-list-heading: ' '
 
 <img src = "me.jpeg" width = "200px" height = "400px"  left = "200px" border = "3px solid #73AD21">
 
-I am currently a Junior, majoring in Computer Engineering, along with a minor in Economics, from the University of Hong Kong (HKU). While there is a lot to share, i'll exercise my brevity and get you up to speed - 
+I am currently a senior, majoring in Computer Engineering, along with a minor in Economics, from the University of Hong Kong (HKU). While there is a lot to share, i'll exercise my brevity and get you up to speed - 
 
 1. I can speak 3 langauges, code in a lot more!
 
@@ -32,9 +32,9 @@ Machines have always fascinated me. This led me to my major at University, becau
 # Academic and Future Aspirations
 
 My academic interests lie in the fields of -
+- Algorithmic Trading
 - Deep Learning
 - Generative Adverserial Networks
 - Acoustic Fingerprinting 
 - Artificial Intellegence
 
-As a professional, I first seek to enter and contribute towards the Software Development and Product Development/Design.
