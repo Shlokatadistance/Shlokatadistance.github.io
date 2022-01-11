@@ -2,7 +2,6 @@
 layout: page
 title: Resume
 permalink: /resume/
-nav-menu : true
 ---
 
 Latest updated Resume! 
