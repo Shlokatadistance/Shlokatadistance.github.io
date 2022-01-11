@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Let's Connect!
 permalink: /Let's Connect/
 nav-menu : true
