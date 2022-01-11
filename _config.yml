@@ -31,7 +31,7 @@ twitter_username: ShlokSinha7
 github_username:  Shlokatadistance
 
 # Build settings
-theme: fortyone-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 

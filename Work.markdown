@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Work Experience
 permalink: /Work Experience/
-nav-menu : true
 ---
 ## 1. Solutions Engineer - Quagnitia Systems Private Limited, India.
 # September 2020 - Present
